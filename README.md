@@ -1,3 +1,29 @@
+![kad1r](https://www.kadir.xyz/img/bg/macbook-coffee-org.jpg)
+
+# Hi 🖖
+
+I'm Kadir, Full Stack .Net Developer since 2008 💪 🧑‍💻   
+I'm trying to support open source projects and when I try new techs I try to share via Github with examples.  
+I've developed erp, crm, custom cms, e-commerce applications with teams.
+
+#### My Tech Stack  
+
+* ASP.NET Core + MVC
+* JavaScript (VanillaJS, VueJS, jQuery)
+* SQL Server, PostgreSQL, MongoDB, Redis
+* React Native
+* NodeJS 
+
+#### 📫 How to reach me:
+* [kadir.xyz](http://kadir.xyz)
+* [twitter@kad1r](http://twitter.com/kad1r)
+
+#### ⚡ Fun Facts  
+
+* ❤️🐈
+* ❤️🏕️
+* ❤️🏍️
+
 ### Hi there 👋
 
 <!--
