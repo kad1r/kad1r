@@ -6,7 +6,8 @@ I'm Kadir, Full Stack .Net Developer since 2008 💪 🧑‍💻
 I'm trying to support open source projects and when I try new techs I try to share via Github with examples.  
 I've developed erp, crm, custom cms, e-commerce applications with teams.
   
-![kad1r](https://github-readme-stats.vercel.app/api?username=kad1r&show_icons=true&theme=onedark)
+![kad1r github statistics](https://github-readme-stats.vercel.app/api?username=kad1r&show_icons=true)  
+![kad1r github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kad1r&layout=compact)  
 
 #### My Tech Stack  
 
