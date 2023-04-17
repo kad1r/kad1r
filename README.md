@@ -11,11 +11,9 @@ I've developed erp, crm, custom cms, e-commerce applications with teams.
 
 #### My Tech Stack  
 
-* ASP.NET Core + MVC
-* JavaScript (VanillaJS, VueJS, jQuery)
+* DotNetCore + MVC
+* JavaScript (VanillaJS, VueJS)
 * SQL Server, PostgreSQL, MongoDB, Redis
-* React Native
-* NodeJS 
 
 #### 📫 How to reach me:
 * [kadir.xyz](http://kadir.xyz)
