@@ -1,4 +1,5 @@
-![kad1r](https://www.kadir.xyz/img/bg/macbook-coffee-org.jpg)
+![kad1r](![image](https://github.com/kad1r/kad1r/assets/2114669/db1b2f43-db72-46c7-b225-eaaf8b540955)
+)
 
 # Hi 🖖
 
