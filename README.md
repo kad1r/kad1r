@@ -1,7 +1,7 @@
-![kad1r](![image](https://github.com/kad1r/kad1r/assets/2114669/db1b2f43-db72-46c7-b225-eaaf8b540955)
-)
-
 # Hi 🖖
+
+![image](https://github.com/kad1r/kad1r/assets/2114669/99da5f38-ef7b-45b9-ade4-022d272c3410)
+
 
 I'm Kadir, Full Stack .Net Developer since 2008 💪 🧑‍💻   
 I'm trying to support open source projects and when I try new techs I try to share via Github with examples.  
