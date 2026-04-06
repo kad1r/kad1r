@@ -1,6 +1,6 @@
 # Hi 🖖
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkbGg0dHByYmk5bTFvZ3QwcWE2bmw2ejdicW5qb2pmaXEwejk4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3VSM58Eu7kR4A/giphy.gif" />  
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdpa3RhYTZsNDNwZWxvYm13Zmx5M3JtZ2Rpd3Z1cmpuM2MzamJtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7LO7q5KcXawaQ/giphy.gif" />  
 
 
 I'm Kadir, Full Stack .Net Developer since 2008 💪 🧑‍💻   
