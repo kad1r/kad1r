@@ -24,11 +24,11 @@ I like small, useful tools. If I'm annoyed by something twice, I usually end up 
 
 ### 🧰 Tools I reach for
 
-**Backend:** .NET / C#, ASP.NET Core, EF Core
-**Data:** SQL Server, PostgreSQL, Redis, MongoDB
-**Frontend:** Vue.js, TypeScript, React Native
-**Infra:** Azure, Azure DevOps, Docker, IIS
-**AI:** Claude Code, OpenAI & Gemini APIs
+**Backend:** .NET / C#, ASP.NET Core, EF Core  
+**Data:** SQL Server, PostgreSQL, Redis, MongoDB  
+**Frontend:** Vue.js, TypeScript, React Native  
+**Infra:** Azure, Azure DevOps, Docker, IIS  
+**AI:** Claude Code, OpenAI & Gemini APIs  
 
 ### 💬 Say hi
 
